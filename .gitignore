@@ -1,0 +1,17 @@
+.env
+*.env
+
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+data/raw/**           # скачанные PDF/HTML
+data/processed/**     # распиленные тексты и таблицы из PDF
+data/index/**         # база Chroma и другие индексы
+data/normalized/report.json

@@ -1,0 +1,2260 @@
+{
+  "slug": "ai_product",
+  "sources": {
+    "abit_page": "https://abit.itmo.ru/program/master/ai_product"
+  },
+  "program": {
+    "title": "Управление ИИ-продуктами/AI Product",
+    "description": "Образовательные программы магистратуры"
+  },
+  "links": {
+    "external_sites": [
+      "https://alfabank.ru/alfafuture/education/ma/itmo/",
+      "https://mega.itmo.ru/",
+      "https://mega.itmo.ru/megaschool"
+    ],
+    "social": [
+      "https://vk.com/aitalenthub",
+      "https://t.me/ai_product_itmo",
+      "https://vk.com/abit.itmo",
+      "https://t.me/abit_itmo",
+      "https://www.youtube.com/user/SPbIFMO"
+    ],
+    "curriculum_links": [],
+    "price_links": []
+  },
+  "contacts": {
+    "emails": [
+      "abit@itmo.ru",
+      "aiproduct@itmo.ru"
+    ],
+    "phones": [
+      "+7 (812) 480-0-480",
+      "+7 (993) 639-86-77",
+      "1993\n-\n2025"
+    ],
+    "telegram": [
+      "@itmo"
+    ]
+  },
+  "manager": {
+    "name": "Регина Ильдаровна Абдрашитова",
+    "email": "abit@itmo.ru",
+    "phone": "+7 (812) 480-0-480",
+    "role": "Менеджер программы"
+  },
+  "team": [
+    {
+      "name": "Мегаолимпиада",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Направления",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Условия участия",
+      "role": "En",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Мега",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "ИТМО",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Онлайн-олимпиада для студентов",
+      "role": "и выпускников бакалавриата",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Интервью с победителями",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Программирование",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Инженерные науки",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Экология",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Химия",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Робототехника",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Направления",
+      "role": "и треки",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Молекулярная биология",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Призы",
+      "role": "Поступление в магистратуру ИТМО без вступительных экзаменов",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Регистрация участников",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сроки",
+      "role": "Финал*",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "МегаШкола",
+      "role": "Ведущие специалисты ИТМО поделятся опытом!",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Могут принять",
+      "role": "участие все желающие",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Участвовать",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "Разработка ©",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "mega@itmo.ru",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сайт поступления",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Положение",
+      "role": "и",
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Политика по обработке персональных данных",
+      "role": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сайт абитуриента",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "МЕГА",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "DEVOPS И МОБИЛЬНАЯ РАЗРАБОТКА",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ПРОГРАММНАЯ ИНЖЕНЕРИЯ И КОМПЬЮТЕРНЫЕ ТЕХНОЛОГИИ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "БИОИНЖЕНЕРИЯ И ХЕМОИНФОРМАТИКА",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ИНЖЕНЕРНЫЕ НАУКИ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "УПРАВЛЕНИЕ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТЬЮ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ФИЗИКА И ИНЖЕНЕРИЯ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "МАТЕМАТИЧЕСКОЕ И КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "НАПРАВЛЕНИЯ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ХИМИЯ И ИИ",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ИНФОХИМИЯ",
+      "role": "12:15",
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Расписание",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Воплощение интеллекта в робототехнике",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Деловая коммуникация",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Первый день МегаШколы",
+      "role": "— общий для всех участников, его материалы будут доступны в записи.",
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Перерыв",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Богданов Павел Игоревич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Карпычев Александр Витальевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Колесникова Анна Романовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Логинова Евгения Владимировна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шмидт Илья Эдуардович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Блинова Анна Алексеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Коняева Ольга Михайловна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мельник Алиса Витальевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ружина Екатерина Ивановна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Штанг Анна Алексеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Юркин Алексей Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Курченко Ольга Михайловна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Решетникова Светлана Вячеславовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Нет победителей",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Победители МегаШколы",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Козлова Александра Дмитриевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мурадова Гюльгаз Ильяс кызы",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Рогачев Кирилл Олегович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шаймарданов Руслан Рамильевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Быкова Екатерина Денисовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Коршикова Кира Игоревна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ворков Никита Романович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Музафаров Данил Андреевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Смирнов Сергей Викторович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Бурледян Карина Эльхановна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Глушенкова Татьяна Вячеславовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Данилов Валерий Константинович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Живов Яков Вячеславович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Зубко Артём Максимович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Котов Дмитрий Дмитриевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мелешко Екатерина Евгеньевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попов Максим Федорович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Хан Даниэл Захид",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шамсулов Руслан Наилевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ефремов Артём Андреевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Маслова Марина Дмитриевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попов Глеб Дмитриевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сорокин Дмитрий Андреевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Чередниченко Анатолий Валерьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Победители МегаШКолы",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Васильев Анатолий Михайлович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ершов Александр Романович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Куранова Полина Вадимовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Михайлов Михаил Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Прокопьева Екатерина Алексеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ткачук Максим Сергеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Труфанов Егор Владимирович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Яцулевич Владимир Владимирович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ермолин Данила Владимирович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сбытов Дмитрий Алексеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жуковский Кирилл Андреевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Краснов Артур Валерьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Тамаров Вячеслав Викторович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Болычев Егор Алексеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Гусев Дмитрий Алексеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Еникеев Ринат Алиевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жуков Павел Юрьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кривоносов Егор Дмитриевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мазитов Тимур Эмилевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Назаров Егор Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Семыкин Владислав Денисович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Цогоева Тамара Владимировна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Черный Ян Дмитриевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Щетинин Владислав Владимирович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Анджаев Батнасан Мукобенович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Болотов Михаил Игоревич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Груздев Ярослав Вячеславович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Зимирев Илья Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кожевников Артем Юрьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ломакин Артем Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Марков Петр Денисович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Московский Антон Александрович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Рыбкин Михаил Алексеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Юрченко Владислав Витальевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Абдрахманова Валерия Тимуровна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Александров Фёдор Тарасович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Аникеев Артем Анатольевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Боярская Татьяна Анатольевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Вдовенко Мария Сергеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Демянко Александра Сергеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жученко Анастасия Алексеевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Исмаилов Махад Фазиль оглы",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Камчарова Юлиана Александровна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кирьянов Дмитрий Юрьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Колбасова Елизавета Юрьевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Корелин Семён Анатольевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Костылев Иван Михайлович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Литвинов Дмитрий Олегович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Манякина Нина Владимировна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мищенко Виолетта Витальевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Никитин Евгений Сергеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Пеннер Марина Андреевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попова Анна Андреевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сарнакова Елизавета Денисовна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Серков Данил Геннадьевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Симонов Алексей Константинович",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Стаценко Сергей Сергеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Стефанкова Лилия-Дарья Дмитриевна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шугинин Юрий Алексеевич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Яшник Артем Игоревич",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Домажирова Валерия Антоновна",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Раткевич Илья Витальевич",
+      "role": "Кто может принять участие в МегаШколе?",
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Задать вопрос можно будет в телеграм-чате МегаШколы.",
+      "role": "Можно ли будет посмотреть лекции МегаШколы в записи?",
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Положение",
+      "role": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "С 28 декабря по 9 января техническая поддержка не сможет отвечать на письма",
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Учись онлайн",
+      "role": "в вечернее время",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Совмещай учебу с работой",
+      "role": "и получай образование из любой точки мира.",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Выбирай",
+      "role": "форму ВКР",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Становись частью комьюнити",
+      "role": "Общайся с ведущими разработчиками, ресерчерами, предпринимателями и инвесторами в области AI и ML.",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Используй плюсы очной формы обучения",
+      "role": "Получи все привилегии студента Университета ИТМО: отсрочку от армии, проживание в общежитии, льготы на проезд.",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Выстраивай свою образовательную траекторию",
+      "role": "Перед стартом семестра ты выберешь проект, над которым будешь работать полгода. И в зависимости от его специфики подберешь дисциплины по Hard и Soft Skills, чтобы успешно реализовать идею",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Перенимай опыт экспертов",
+      "role": "в ML и DS из индустрии и ведущих лабораторий",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Влад Горбунов",
+      "role": "Руководитель магистратуры AI Product, руководитель ML RnD в ИПКН ИТМО, Head of ML @ ex-СберКорус, ex-SkillBox, ex-Газпромнефть // с 2024 года - Ментор AI Talent Hub и преподаватель курсов “Процессы и методологии разработки AI-решений”, “ML System Design”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Полина Полунина",
+      "role": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Михаил Покидько",
+      "role": "Lead Product Owner @ X5 // с 2022 года - Ментор AI Talent Hub и преподаватель курса “Управление технологическим продуктом”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Кузнецов",
+      "role": "К.т.н., Head of ML, Одноклассники (VK).",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Ботов",
+      "role": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Валентин Малых",
+      "role": "К.т.н., старший научный сотрудник лаборатории MTS AI. С 2022 года – преподаватель AI Talent Hub",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Кузнецов",
+      "role": "к.т.н., директор лаборатории Fusion Brain, AIRI // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Multimodal Language Models”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Валерий Бабушкин",
+      "role": "Head of Data, Analytics and AI for Trading & Shipping and Customers & Products, BP // с 2024 года - ментор X5 AI Lab",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Охотников",
+      "role": "Должность: Machine Learning Teamlead",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Марк Паненко",
+      "role": "Chief Data Scientist, Ozon Банк // с 2022 года - Ментор и преподаватель AI Talent Hub",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Драган",
+      "role": "руководитель направления бизнес-анализа и исследования, Ozon // с 2023 года - Ментор AI Talent Hub",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Павел Кикин",
+      "role": "к.т.н., руководитель центра MLOps, Газпромнефть – Региональные продажи // с 2022 года - Ментор AI Talent Hub и преподаватель курса MLOps",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Илья Макаров",
+      "role": "к.т.н., руководитель группы «ИИ в промышленности», AIRI, директор ЦИИ МИСИС, доцент МФТИ и НИУ ВШЭ // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Введение в LLM”, “Машинное обучение на графах”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Даниил Потапов",
+      "role": "руководитель лаборатории ИИ РСХБ-Интех // с 2022 года - Ментор AI Talent Hub и преподаватель курсов Рекомендательные системы, Статистика и А/В тестирование",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Кристина Желтова",
+      "role": "Директор по разработке моделей - Газпромбанк // с 2024 года - Выпускница и ментор AI Talent Hub, преподаватель курсов “Основы глубокого обучения”, “Глубокое обучение и обработка естественного языка”, “ML System Design”, “Глубокое обучение на практике”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Евгений Кокуйкин",
+      "role": "Raft (HiveTrace CEO, Co-Founder Raft) // с 2023 года - Ментор AI Talent Hub, руководитель AI Security Lab, преподаватель курса “Безопасность ИИ”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Руслан Сафин",
+      "role": "технический директор, Byndyusoft // с 2022 года - Ментор AI Talent Hub  и преподаватель курса “Проектирование микросервисов”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Денис Кузнецов",
+      "role": "зам. зав. лаборатории DeepPavlov, МФТИ, CTO открытого AI-фреймворка Chatsky // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Разработка приложений разговорного ИИ”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Абраров",
+      "role": "руководитель направления развития ИИ-решений, Норникель // с 2024 года - Ментор AI Talent Hub, председатель ГЭК",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дарья Купко",
+      "role": "CEO в ANX Technoligies, ex-Wargaming, ex-Epam // с 2025 года - Ментор AI Talent Hub, преподаватель курса “Бизнес-анализ”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Радослав Нейчев",
+      "role": "руководитель группы ML-разработки, лаборатория ИИ, Яндекс; выпускник и преподаватель ШАД // с 2024 года - Ментор AI Talent Hub, преподаватель курсов “Обучение с подкреплением”, “Обработка естественного языка”, “Основы машинного обучения”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Рыжков",
+      "role": "руководитель AI Lab, Авито | Kaggle Grandmaster // с 2022 года - Ментор AI Talent Hub, председатель ГЭК",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Михаил Неверов",
+      "role": "Директор по анализу данных, X5 Group // с 2023 года - Ментор AI Talent Hub, Основатель X5 AI Lab, председатель ГЭК",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Ракитько",
+      "role": "директор по науке, Genotek // с 2024 года - Ментор AI Talent Hub",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Евгений Кириллов",
+      "role": "Руководитель отдела видеоаналитики, Insentry // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Обработка и генерация изображений”, “Deep Generative Models”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Салтовский",
+      "role": "руководитель юнита Прайсинга, Авито // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Анализ и прогнозирование временных рядом”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Сабурин",
+      "role": "Руководитель команды Прайсинга, МТС // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Анализ и прогнозирование временных рядом”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Владимир Фоменко",
+      "role": "Руководитель группы анализа спроса, Ozon // с 2022 года - Ментор AI Talent Hub и преподаватель курса “Технологии компьютерного зрения”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Никита Самохин",
+      "role": "Lead DevOps, VTB.Cloud // с 2022 года - Ментор AI Talent Hub и преподаватель курсов “DevOps”, “Контейнеризация и оркестрация приложений”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Алексей Комиссаров",
+      "role": "Евангелист сильного ИИ, биоинформатик, фаундер стелс AI-стартапов // с 2022 года - Ментор AI Talent Hub, преподаватель курсов “Программирование на естественном языке (AI-Assisted programming)”, “AI Agents Workshop”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Ян Анисимов",
+      "role": "Curriculum Lead DS @ Яндекс.Практикум, руководитель отдела разработки ИНСИТ // с 2022 года - Ментор AI Talent Hub и преподаватель курсов “Data Driven Engineering”, “Практикум по разработке ML-сервисов”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Павел Подкорытов",
+      "role": "CEO Napoleon IT, Co-founder AI Talent Hub, INSEAD Executive MBA",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Мельников",
+      "role": "д.т.н., профессор, директор Югорского НИИ информационных технологий // с 2024 года - Ментор AI Talent Hub, председатель ГЭК",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Мамаев",
+      "role": "Руководитель службы машинного обучения, Яндекс // с 2025 года - Ментор AI Talent Hub, председатель ГЭК",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Андоскин",
+      "role": "Руководитель направления по исследованию данных, Сбер // с 2022 года - Ментор AI Talent Hub и преподаватель курсов MLOps, Big Data",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Ирина Елисова",
+      "role": "Head of ML, Geomotive // с 2022 года - Ментор AI Talent Hub и преподаватель курсов по рекомендательным системам",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Иван Кононов",
+      "role": "Founder @ HubLab.ai // с 2023 года - Ментор AI Talent Hub",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дарья Воронкина",
+      "role": "Team Lead Data manager @ OneCell // с 2024 года - Выпускница и ментор AI Talent Hub, преподаватель курса “Сбор и разметка данных для машинного обучения”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Никита Северин",
+      "role": "Chief Data Scientist @ Juno AI // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Введение в LLM”, “Машинное обучение на графах”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Рамиль Зайнуллин",
+      "role": "Chief Technology Officer @ Flocktory // с 2023 года - Ментор AI Talent Hub, руководитель Data Scale Lab и преподаватель курса “Управление данными”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Куропятник",
+      "role": "Engineering Project Manager @ Avride // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Управление проектами в Data Science”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Вадим Чижков",
+      "role": "Product manager платформы OneCell.ai // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Продуктовые исследования”",
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Максим Пантелеев",
+      "role": "руководитель ML-направлений в Wildberries, ex-SberAI Lab // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Автоматическое машинное обучение”",
+      "source": "https://aiproduct.itmo.ru/"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Регина Ильдаровна Абдрашитова",
+      "role": "Менеджер программы",
+      "profile_url": null,
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "name": "Мегаолимпиада",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Направления",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Условия участия",
+      "role": "En",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Мега",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "ИТМО",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Онлайн-олимпиада для студентов",
+      "role": "и выпускников бакалавриата",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Интервью с победителями",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Программирование",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Инженерные науки",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Экология",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Химия",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Робототехника",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Направления",
+      "role": "и треки",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Молекулярная биология",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Призы",
+      "role": "Поступление в магистратуру ИТМО без вступительных экзаменов",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Регистрация участников",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сроки",
+      "role": "Финал*",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "МегаШкола",
+      "role": "Ведущие специалисты ИТМО поделятся опытом!",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Могут принять",
+      "role": "участие все желающие",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Участвовать",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "Разработка ©",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "mega@itmo.ru",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сайт поступления",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Положение",
+      "role": "и",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Политика по обработке персональных данных",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/"
+    },
+    {
+      "name": "Сайт абитуриента",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "МЕГА",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "DEVOPS И МОБИЛЬНАЯ РАЗРАБОТКА",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ПРОГРАММНАЯ ИНЖЕНЕРИЯ И КОМПЬЮТЕРНЫЕ ТЕХНОЛОГИИ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "БИОИНЖЕНЕРИЯ И ХЕМОИНФОРМАТИКА",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ИНЖЕНЕРНЫЕ НАУКИ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "УПРАВЛЕНИЕ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТЬЮ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ФИЗИКА И ИНЖЕНЕРИЯ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "МАТЕМАТИЧЕСКОЕ И КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "НАПРАВЛЕНИЯ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ХИМИЯ И ИИ",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "ИНФОХИМИЯ",
+      "role": "12:15",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Расписание",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Воплощение интеллекта в робототехнике",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Деловая коммуникация",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Первый день МегаШколы",
+      "role": "— общий для всех участников, его материалы будут доступны в записи.",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Перерыв",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Богданов Павел Игоревич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Карпычев Александр Витальевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Колесникова Анна Романовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Логинова Евгения Владимировна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шмидт Илья Эдуардович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Блинова Анна Алексеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Коняева Ольга Михайловна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мельник Алиса Витальевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ружина Екатерина Ивановна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Штанг Анна Алексеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Юркин Алексей Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Курченко Ольга Михайловна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Решетникова Светлана Вячеславовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Нет победителей",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Победители МегаШколы",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Козлова Александра Дмитриевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мурадова Гюльгаз Ильяс кызы",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Рогачев Кирилл Олегович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шаймарданов Руслан Рамильевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Быкова Екатерина Денисовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Коршикова Кира Игоревна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ворков Никита Романович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Музафаров Данил Андреевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Смирнов Сергей Викторович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Бурледян Карина Эльхановна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Глушенкова Татьяна Вячеславовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Данилов Валерий Константинович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Живов Яков Вячеславович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Зубко Артём Максимович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Котов Дмитрий Дмитриевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мелешко Екатерина Евгеньевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попов Максим Федорович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Хан Даниэл Захид",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шамсулов Руслан Наилевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ефремов Артём Андреевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Маслова Марина Дмитриевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попов Глеб Дмитриевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сорокин Дмитрий Андреевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Чередниченко Анатолий Валерьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Победители МегаШКолы",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Васильев Анатолий Михайлович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ершов Александр Романович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Куранова Полина Вадимовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Михайлов Михаил Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Прокопьева Екатерина Алексеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ткачук Максим Сергеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Труфанов Егор Владимирович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Яцулевич Владимир Владимирович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ермолин Данила Владимирович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сбытов Дмитрий Алексеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жуковский Кирилл Андреевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Краснов Артур Валерьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Тамаров Вячеслав Викторович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Болычев Егор Алексеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Гусев Дмитрий Алексеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Еникеев Ринат Алиевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жуков Павел Юрьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кривоносов Егор Дмитриевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мазитов Тимур Эмилевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Назаров Егор Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Семыкин Владислав Денисович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Цогоева Тамара Владимировна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Черный Ян Дмитриевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Щетинин Владислав Владимирович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Анджаев Батнасан Мукобенович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Болотов Михаил Игоревич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Груздев Ярослав Вячеславович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Зимирев Илья Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кожевников Артем Юрьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Ломакин Артем Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Марков Петр Денисович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Московский Антон Александрович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Рыбкин Михаил Алексеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Юрченко Владислав Витальевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Абдрахманова Валерия Тимуровна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Александров Фёдор Тарасович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Аникеев Артем Анатольевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Боярская Татьяна Анатольевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Вдовенко Мария Сергеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Демянко Александра Сергеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Жученко Анастасия Алексеевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Исмаилов Махад Фазиль оглы",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Камчарова Юлиана Александровна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Кирьянов Дмитрий Юрьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Колбасова Елизавета Юрьевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Корелин Семён Анатольевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Костылев Иван Михайлович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Литвинов Дмитрий Олегович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Манякина Нина Владимировна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Мищенко Виолетта Витальевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Никитин Евгений Сергеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Пеннер Марина Андреевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Попова Анна Андреевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Сарнакова Елизавета Денисовна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Серков Данил Геннадьевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Симонов Алексей Константинович",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Стаценко Сергей Сергеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Стефанкова Лилия-Дарья Дмитриевна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Шугинин Юрий Алексеевич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Яшник Артем Игоревич",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Домажирова Валерия Антоновна",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Раткевич Илья Витальевич",
+      "role": "Кто может принять участие в МегаШколе?",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Задать вопрос можно будет в телеграм-чате МегаШколы.",
+      "role": "Можно ли будет посмотреть лекции МегаШколы в записи?",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Положение",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Университет ИТМО",
+      "role": "С 28 декабря по 9 января техническая поддержка не сможет отвечать на письма",
+      "profile_url": null,
+      "source": "https://mega.itmo.ru/megaschool"
+    },
+    {
+      "name": "Учись онлайн",
+      "role": "в вечернее время",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Совмещай учебу с работой",
+      "role": "и получай образование из любой точки мира.",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Выбирай",
+      "role": "форму ВКР",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Становись частью комьюнити",
+      "role": "Общайся с ведущими разработчиками, ресерчерами, предпринимателями и инвесторами в области AI и ML.",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Используй плюсы очной формы обучения",
+      "role": "Получи все привилегии студента Университета ИТМО: отсрочку от армии, проживание в общежитии, льготы на проезд.",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Выстраивай свою образовательную траекторию",
+      "role": "Перед стартом семестра ты выберешь проект, над которым будешь работать полгода. И в зависимости от его специфики подберешь дисциплины по Hard и Soft Skills, чтобы успешно реализовать идею",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Перенимай опыт экспертов",
+      "role": "в ML и DS из индустрии и ведущих лабораторий",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Влад Горбунов",
+      "role": "Руководитель магистратуры AI Product, руководитель ML RnD в ИПКН ИТМО, Head of ML @ ex-СберКорус, ex-SkillBox, ex-Газпромнефть // с 2024 года - Ментор AI Talent Hub и преподаватель курсов “Процессы и методологии разработки AI-решений”, “ML System Design”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Полина Полунина",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Михаил Покидько",
+      "role": "Lead Product Owner @ X5 // с 2022 года - Ментор AI Talent Hub и преподаватель курса “Управление технологическим продуктом”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Кузнецов",
+      "role": "К.т.н., Head of ML, Одноклассники (VK).",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Ботов",
+      "role": "Эксперт",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Валентин Малых",
+      "role": "К.т.н., старший научный сотрудник лаборатории MTS AI. С 2022 года – преподаватель AI Talent Hub",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Кузнецов",
+      "role": "к.т.н., директор лаборатории Fusion Brain, AIRI // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Multimodal Language Models”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Валерий Бабушкин",
+      "role": "Head of Data, Analytics and AI for Trading & Shipping and Customers & Products, BP // с 2024 года - ментор X5 AI Lab",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Охотников",
+      "role": "Должность: Machine Learning Teamlead",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Марк Паненко",
+      "role": "Chief Data Scientist, Ozon Банк // с 2022 года - Ментор и преподаватель AI Talent Hub",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Драган",
+      "role": "руководитель направления бизнес-анализа и исследования, Ozon // с 2023 года - Ментор AI Talent Hub",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Павел Кикин",
+      "role": "к.т.н., руководитель центра MLOps, Газпромнефть – Региональные продажи // с 2022 года - Ментор AI Talent Hub и преподаватель курса MLOps",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Илья Макаров",
+      "role": "к.т.н., руководитель группы «ИИ в промышленности», AIRI, директор ЦИИ МИСИС, доцент МФТИ и НИУ ВШЭ // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Введение в LLM”, “Машинное обучение на графах”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Даниил Потапов",
+      "role": "руководитель лаборатории ИИ РСХБ-Интех // с 2022 года - Ментор AI Talent Hub и преподаватель курсов Рекомендательные системы, Статистика и А/В тестирование",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Кристина Желтова",
+      "role": "Директор по разработке моделей - Газпромбанк // с 2024 года - Выпускница и ментор AI Talent Hub, преподаватель курсов “Основы глубокого обучения”, “Глубокое обучение и обработка естественного языка”, “ML System Design”, “Глубокое обучение на практике”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Евгений Кокуйкин",
+      "role": "Raft (HiveTrace CEO, Co-Founder Raft) // с 2023 года - Ментор AI Talent Hub, руководитель AI Security Lab, преподаватель курса “Безопасность ИИ”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Руслан Сафин",
+      "role": "технический директор, Byndyusoft // с 2022 года - Ментор AI Talent Hub  и преподаватель курса “Проектирование микросервисов”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Денис Кузнецов",
+      "role": "зам. зав. лаборатории DeepPavlov, МФТИ, CTO открытого AI-фреймворка Chatsky // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Разработка приложений разговорного ИИ”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Абраров",
+      "role": "руководитель направления развития ИИ-решений, Норникель // с 2024 года - Ментор AI Talent Hub, председатель ГЭК",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дарья Купко",
+      "role": "CEO в ANX Technoligies, ex-Wargaming, ex-Epam // с 2025 года - Ментор AI Talent Hub, преподаватель курса “Бизнес-анализ”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Радослав Нейчев",
+      "role": "руководитель группы ML-разработки, лаборатория ИИ, Яндекс; выпускник и преподаватель ШАД // с 2024 года - Ментор AI Talent Hub, преподаватель курсов “Обучение с подкреплением”, “Обработка естественного языка”, “Основы машинного обучения”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Рыжков",
+      "role": "руководитель AI Lab, Авито | Kaggle Grandmaster // с 2022 года - Ментор AI Talent Hub, председатель ГЭК",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Михаил Неверов",
+      "role": "Директор по анализу данных, X5 Group // с 2023 года - Ментор AI Talent Hub, Основатель X5 AI Lab, председатель ГЭК",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Ракитько",
+      "role": "директор по науке, Genotek // с 2024 года - Ментор AI Talent Hub",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Евгений Кириллов",
+      "role": "Руководитель отдела видеоаналитики, Insentry // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Обработка и генерация изображений”, “Deep Generative Models”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Салтовский",
+      "role": "руководитель юнита Прайсинга, Авито // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Анализ и прогнозирование временных рядом”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дмитрий Сабурин",
+      "role": "Руководитель команды Прайсинга, МТС // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Анализ и прогнозирование временных рядом”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Владимир Фоменко",
+      "role": "Руководитель группы анализа спроса, Ozon // с 2022 года - Ментор AI Talent Hub и преподаватель курса “Технологии компьютерного зрения”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Никита Самохин",
+      "role": "Lead DevOps, VTB.Cloud // с 2022 года - Ментор AI Talent Hub и преподаватель курсов “DevOps”, “Контейнеризация и оркестрация приложений”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Алексей Комиссаров",
+      "role": "Евангелист сильного ИИ, биоинформатик, фаундер стелс AI-стартапов // с 2022 года - Ментор AI Talent Hub, преподаватель курсов “Программирование на естественном языке (AI-Assisted programming)”, “AI Agents Workshop”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Ян Анисимов",
+      "role": "Curriculum Lead DS @ Яндекс.Практикум, руководитель отдела разработки ИНСИТ // с 2022 года - Ментор AI Talent Hub и преподаватель курсов “Data Driven Engineering”, “Практикум по разработке ML-сервисов”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Павел Подкорытов",
+      "role": "CEO Napoleon IT, Co-founder AI Talent Hub, INSEAD Executive MBA",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Мельников",
+      "role": "д.т.н., профессор, директор Югорского НИИ информационных технологий // с 2024 года - Ментор AI Talent Hub, председатель ГЭК",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Александр Мамаев",
+      "role": "Руководитель службы машинного обучения, Яндекс // с 2025 года - Ментор AI Talent Hub, председатель ГЭК",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Андрей Андоскин",
+      "role": "Руководитель направления по исследованию данных, Сбер // с 2022 года - Ментор AI Talent Hub и преподаватель курсов MLOps, Big Data",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Ирина Елисова",
+      "role": "Head of ML, Geomotive // с 2022 года - Ментор AI Talent Hub и преподаватель курсов по рекомендательным системам",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Иван Кононов",
+      "role": "Founder @ HubLab.ai // с 2023 года - Ментор AI Talent Hub",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Дарья Воронкина",
+      "role": "Team Lead Data manager @ OneCell // с 2024 года - Выпускница и ментор AI Talent Hub, преподаватель курса “Сбор и разметка данных для машинного обучения”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Никита Северин",
+      "role": "Chief Data Scientist @ Juno AI // с 2023 года - Ментор AI Talent Hub и преподаватель курсов “Введение в LLM”, “Машинное обучение на графах”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Рамиль Зайнуллин",
+      "role": "Chief Technology Officer @ Flocktory // с 2023 года - Ментор AI Talent Hub, руководитель Data Scale Lab и преподаватель курса “Управление данными”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Антон Куропятник",
+      "role": "Engineering Project Manager @ Avride // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Управление проектами в Data Science”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Вадим Чижков",
+      "role": "Product manager платформы OneCell.ai // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Продуктовые исследования”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    },
+    {
+      "name": "Максим Пантелеев",
+      "role": "руководитель ML-направлений в Wildberries, ex-SberAI Lab // с 2023 года - Ментор AI Talent Hub и преподаватель курса “Автоматическое машинное обучение”",
+      "profile_url": null,
+      "source": "https://aiproduct.itmo.ru/"
+    }
+  ],
+  "costs": [
+    {
+      "amount": 599000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 4100,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 27000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 30000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 7000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 300000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    },
+    {
+      "amount": 25000,
+      "currency": "RUB",
+      "source": "https://abit.itmo.ru/program/master/ai_product"
+    }
+  ]
+}

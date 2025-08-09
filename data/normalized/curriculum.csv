@@ -1,0 +1,454 @@
+﻿program,semester,course,type,credits,hours,source_pdf
+ai,1,UNIX/Linux системы,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Автоматическое машинное обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Алгоритмы и структуры данных,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Английский язык A1 / English A1,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Английский язык A2 / English A2,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Английский язык в профессиональной деятельности / English for specific purposes,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Базы данных,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Бизнес-аналитика для инженеров,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Введение в МО (Python) и Продвинутое МО (Python),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Введение в большие языковые модели (LLM),,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Воркшоп по созданию продукта на данных / Data Product Development Workshop,обязательная,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Вычисления на графических процессорах (GPU),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Графические интерфейсы,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Дополнительные разделы машинного обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Инженерные практики в ML и анализе данных,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Инжиниринг управления данными,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Иностранный язык / Foreign Language,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Инструменты разработки data-driven решений,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Контейнеризация и оркестрация приложений,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Математика для машинного обучения и анализа данных,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Математическая статистика,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Обработка и генерация изображений,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы глубокого обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы концептуального мышления,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы концептуального мышления / Introduction to Conceptual Thinking,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы машинного обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Практика применения машинного обучения,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Прикладной анализ временных рядов,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Программирование на С++,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Продвинутое МО (Python) и Глубокое обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Продуктовые исследования,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Проектирование и разработка рекомендательных систем (продвинутый уровень),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Проектирование микросервисов,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Проектирование систем машинного обучения (ML System Design),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Проектная практика,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Процессы и методологии разработки решений на основе ИИ,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Разработка веб-приложений (Python Backend),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Регуляция эмоционального состояния в профессиональной деятельности,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Русский язык как иностранный / Russian as a foreign language,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Создание интеллектуальных агентов,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Технологии обработки естественного языка,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Хранение больших данных и Введение в МО (Python),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Эмпатия и ненасильственное общение / Empathy and non-violent communication,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,1,Языки программирования,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,DevOps практики и инструменты,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,А/В тестирование,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Автоматическая обработка текстов и Обработка изображений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Автоматическая обработка текстов и Социальные сети,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Английский язык A1 / English A1,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Английский язык A2 / English A2,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Английский язык в профессиональной деятельности / English for specific purposes,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Безопасность ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Бизнес-анализ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Воркшоп по прикладному использованию языковых и генеративных моделей,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Глубокие генеративные модели (Deep Generative Models),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Глубокое обучение на практике,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Дополнительные разделы математики и алгоритмов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Задачи машинного обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Инженерия данных,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Иностранный язык / Foreign Language,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Интеллектуальные агенты и большие языковые модели,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Информационный поиск,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Компьютерное зрение (продвинутый уровень),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Машинное обучение,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Методология трансляционных исследований,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Научно-исследовательская практика,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Нейросети в химии / Neural Networks in Chemistry,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Обработка естественного языка,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Обработка изображений и Компьютерное зрение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Обучение с подкреплением,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Основы построения рекомендательных систем,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Практика по выбору,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Практики менторства и развития в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Прикладная математика и статистика / Applied Math and Statistics,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Программирование на Python (продвинутый уровень),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Продвинутое МО (Python) и Автоматическая обработка текстов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Продвинутое МО (Python) и Обработка изображений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Продуктовый дизайн и прототипирование AI-решений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Проектирование систем машинного обучения (ML System Design),электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Проектная практика,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Разработка приложений разговорного искусственного интеллекта,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Распознавание и генерация речи,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Русский язык как иностранный / Russian as a foreign language,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Сбор и разметка данных для машинного обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Системы обработки и анализа больших массивов данных,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Специальные главы биоинформатики,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Специальные главы геномики,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Технологии и практики MLOps,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Технологии компьютерного зрения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Технологии обработки естественного языка,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление данными,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление проектами в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Управление технологическим продуктом,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Эмпатия и ненасильственное общение / Empathy and non-violent communication,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,2,Языки программирования для работы с данными,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Critical Thinking Skills (Advanced),,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,UNIX/Linux системы,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Автоматическое машинное обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Алгоритмы и структуры данных,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Базы данных,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Бизнес-аналитика,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Введение в МО (Python) и Продвинутое МО (Python),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Введение в большие языковые модели (LLM),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Воркшоп по применению ИИ,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Вычисления на графических процессорах (GPU),электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Глубокое обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Графические интерфейсы,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Инжиниринг управления данными,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Иностранный язык в профессиональной деятельности / Foreign Language for Professional activity,,4.0,144,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Инструменты разработки data-driven решений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,История и философия науки,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Контейнеризация и оркестрация приложений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Критическое мышление (продвинутый уровень),,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Мастерская по проектам для работы с данными,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Математическая статистика,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Мультимодальные генеративные модели искусственного интеллекта,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Обработка и генерация изображений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Практика по выбору,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Прикладная математика для машинного обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Прикладной анализ временных рядов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Прикладные задачи машинного обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Прикладные инструменты разработки,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Программирование на С++,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Продвинутое МО (Python) и Глубокое обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Продвинутое машинное обучение,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Продуктовые исследования,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Проектирование и разработка рекомендательных систем (продвинутый уровень),электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Проектирование микросервисов,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Проектирование систем машинного обучения (ML System Design),электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Производственная проектно-технологическая практика,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,"Производственная, научно-исследовательская практика",,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Процессы и методологии разработки решений на основе ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Разработка веб-приложений (Python Backend),электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Создание и развитие технологического бизнеса,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Стартап-трек: от mvp до бизнеса,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Технологии обработки естественного языка,электив,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Хранение больших данных и Введение в МО (Python),электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Эмпатия и ненасильственное общение / Empathy and non-violent communication,,1.0,36,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Этика в сфере информационных технологий и искусственного интеллекта,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,3,Языки программирования. Продвинутый уровень,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,DevOps практики и инструменты,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,А/В тестирование,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Автоматическая обработка текстов и Обработка изображений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Автоматическая обработка текстов и Социальные сети,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Безопасность ИИ,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Бизнес-анализ,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Воркшоп по ML,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Воркшоп по прикладному использованию языковых и генеративных моделей,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Глубокие генеративные модели (Deep Generative Models),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Глубокое обучение и обработка естественного языка,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Дополнительные разделы математики и алгоритмов,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Инженерия данных,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Интеллектуальные агенты и большие языковые модели,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Информационный поиск,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Компьютерное зрение (продвинутый уровень),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Методология трансляционных исследований,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Научно-исследовательская работа,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Нейросети в химии / Neural Networks in Chemistry,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Обработка изображений и Компьютерное зрение,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Обучение с подкреплением,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Основы построения рекомендательных систем,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Подготовка к защите и защита ВКР,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Практика по выбору,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Практики менторства и развития в Data Science,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Прикладная математика и статистика / Applied Math and Statistics,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Применение машинного обучения в доменных областях,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Программирование на Python (продвинутый уровень),,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Продвинутое МО (Python) и Автоматическая обработка текстов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Продвинутое МО (Python) и Обработка изображений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Продвинутое машинное обучение - дополнительные главы,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Продуктовый дизайн и прототипирование AI-решений,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Проектирование систем машинного обучения (ML System Design),,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Проектная работа,,12.0,432,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,"Производственная, преддипломная практика",,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Разработка приложений разговорного искусственного интеллекта,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Распознавание и генерация речи,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Сбор и разметка данных для машинного обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Системы обработки и анализа больших массивов данных,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Специальные главы биоинформатики,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Специальные главы геномики,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Технологии и практики MLOps,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Технологии компьютерного зрения,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Технологии обработки естественного языка,,6.0,216,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Управление данными,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Управление проектами в Data Science,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Управление технологическим продуктом,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai,4,Языки программирования для работы с данными. Продвинутый уровень,,3.0,108,data\raw\drive.google.com_uc.pdf_897abe6a
+ai-product,1,Английский язык A1 / English A1,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Английский язык A2 / English A2,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Английский язык B1.1 / English B1.1,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Введение в большие языковые модели (LLM),электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Воркшоп по созданию продукта на данных / Data Product Development Workshop,обязательная,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Инженерные практики в ML и анализе данных,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Иностранный язык (маг 2025/2026),soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Математика для машинного обучения и анализа данных,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Математическая статистика,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Монетизация ИИ-продуктов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Научное письмо на английском языке / Scientific writing,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы глубокого обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы концептуального мышления,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы концептуального мышления / Introduction to Conceptual Thinking,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы машинного обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы программирования на Python,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Прикладной анализ временных рядов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Прикладные инструменты разработки,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Продуктовые исследования,обязательная,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Продуктовый дизайн и прототипирование AI-решений,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Проектирование микросервисов,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,"Производственная, технологическая (проектно-технологическая) практика",,9.0,324,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Процессы и методологии разработки решений на основе ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Разработка веб-приложений (Python Backend),электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Регуляция эмоционального состояния в профессиональной деятельности,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Русский язык как иностранный / Russian as a foreign language,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Стратегический продуктовый менеджмент,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,1,Эмпатичная коммуникация / Empathetic communication,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Английский язык A1 / English A1,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Английский язык A2 / English A2,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Английский язык B1.1 / English B1.1,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Бизнес-анализ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Воркшоп по прикладному использованию языковых и генеративных моделей,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Глубокое обучение на практике,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Данные в финансовом секторе,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Инженерия данных,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Иностранный язык (маг 2025/2026),soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Интеллектуальные агенты и большие языковые модели,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Метрики и аналитика продукта,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Навыки презентации на английском языке / Presentation skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Обработка естественного языка,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Основы маркетинга для ИИ-продуктов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Основы построения рекомендательных систем,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Практики менторства и развития в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Прикладные задачи машинного обучения,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Программирование на Python (продвинутый уровень),электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Проектирование систем машинного обучения (ML System Design),электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,"Производственная, технологическая (проектно-технологическая) практика",,9.0,324,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Русский язык как иностранный / Russian as a foreign language,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Технологии компьютерного зрения,электив,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление командами и проектами в ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление продуктовым портфелем,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление проектами в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Фандрайзинг и бизнес-планирование,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Финансовые технологии,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,2,Эмпатичная коммуникация / Empathetic communication,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Введение в большие языковые модели (LLM),,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Выступления для молодых ученых,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Доказательный подход к управлению карьерой / Evidence-based approach to career management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Инженерные практики в ML и анализе данных,,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Инструменты принятия решений / Art & math of decision making,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Карьера в IT,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Критическое мышление (продвинутый уровень),soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Математика для машинного обучения и анализа данных,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Математическая статистика,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Медиация и урегулирование разногласий / Mediation and dispute resolutio,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Межкультурная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Монетизация ИИ-продуктов,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced),soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Основы глубокого обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Основы машинного обучения,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Основы публичных выступлений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Основы финансовой грамотности,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Планирование и изменение карьерной траектории / Launching and relaunching your career,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Практики совместной работы и принятия решений,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Прикладной анализ временных рядов,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Прикладные инструменты разработки,,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Продуктовый дизайн и прототипирование AI-решений,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Проектирование микросервисов,,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,"Производственная, технологическая (проектно-технологическая) практика",,9.0,324,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Процессы и методологии разработки решений на основе ИИ,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Публичные выступления в онлайн-формате,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Публичные выступления в профессиональной деятельности / Pitches and speeches,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Работа в удаленных командах,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Развитие карьеры в современной профессиональной среде,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Разработка веб-приложений (Python Backend),,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Самопрезентация и питчинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Сложная коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Современная бизнес-коммуникация,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Современное лидерство,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Создание и развитие технологического бизнеса,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Стартап-трек: от mvp до бизнеса,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Сторителлинг,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Стратегии эффективных переговоров с работодателем,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Стратегический продуктовый менеджмент,,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Тайм-менеджмент,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Техники ответов на вопросы в публичных выступлениях,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Управление конфликтами,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Управление мотивацией,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Управление стрессом / Stress management,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Управление стрессом и профилактика выгорания,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Целеполагание в современном мире,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Элективные микромодули Soft Skills,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Эмпатичная коммуникация / Empathetic communication,,1.0,36,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,3,Этика в сфере информационных технологий и искусственного интеллекта,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Бизнес-анализ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Блок 2. Практика,soft,42.0,1512,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,"Иностранный язык (базовый, маг 2025/2026)",soft,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Креативные технологии,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Метрики и аналитика продукта,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Мировоззренческий модуль ии,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Мышление,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Основы маркетинга для ИИ-продуктов,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Подготовка к защите и защита ВКР,,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Правовые аспекты разработки и использования ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Практика,soft,42.0,1512,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Практики менторства и развития в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Преддипломная практика,soft,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Предпринимательская культура,soft,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,"Производственная, преддипломная практика",soft,6.0,216,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,"Производственная, технологическая (проектно-технологическая) практика",,9.0,324,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Универсальная (надпрофессиональная) подготовка,электив,12.0,432,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Управление командами и проектами в ИИ,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Управление продуктовым портфелем,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Управление проектами в Data Science,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
+ai-product,4,Фандрайзинг и бизнес-планирование,электив,3.0,108,data\raw\drive.google.com_uc.pdf_21de0def
