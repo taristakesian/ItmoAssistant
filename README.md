@@ -1,4 +1,26 @@
 # README
+## Быстрый старт
+```
+git clone https://github.com/taristakesian/ItmoAssistant itmo-ai-bot
+cd itmo-ai-bot
+```
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+Заполните своими данными .env
+```
+OPENAI_API_KEY=sk-REPLACE_ME
+OPENAI_MODEL="gpt-5-nano"
+OPENAI_EMBED_MODEL="text-embedding-3-small"
+BOT_TOKEN=REPLACE_ME
+```
+Запуск пайплайна
+```
+python main.py up
+```
 
 ## 0) Предисловие
 
